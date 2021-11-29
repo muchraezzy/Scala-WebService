@@ -1,0 +1,6 @@
+reload
+sbt
+reload
+run
+sbt run
+boot

@@ -1,0 +1,4 @@
+[debug] [slicktest-test] Classpath dependencies List()
+[debug] [slicktest-test] Dependencies from configurations List(slicktest)
+[debug] Bloop wrote the configuration of project 'slicktest-test' to 'C:\Users\Mo\Downloads\Compressed\ScalaSlickTest-master\ScalaSlickTest-master\SlickTEST\.bloop\slicktest-test.json'
+[success] Generated .bloop\slicktest-test.json
